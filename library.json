@@ -1,0 +1,22 @@
+{
+  "name": "StatisticsLibrary",
+  "keywords": "statistics",
+  "description": "Arduino Library for Statistics Use",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FoxBearBear/statistics.git"
+  },
+  "authors": [
+    {
+      "name": "Scott Daniels"
+    }
+  ],
+  "dependencies": {
+    "name": "StatisticsLibrary",
+    "authors": "Scott Daniels",
+    "frameworks": "arduino"
+  },
+  "version": 1,
+  "frameworks": "arduino",
+  "platforms": "*"
+}
